@@ -184,7 +184,7 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days1",
+          "Name": "First days KS",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -193,7 +193,7 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended1",
+          "Name": "Recommended KS",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",

@@ -208,6 +208,15 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "68741a01-5854-42cd-b406-d71b7a654c47",
+          "Name": "KSSubTestNew",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
         }
       ]
     },
